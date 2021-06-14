@@ -1,2 +1,2 @@
 # wordpress
-Coding to Wordpress
+Wordpress code
