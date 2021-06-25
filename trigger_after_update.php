@@ -1,3 +1,5 @@
+<?php
+
 
 add_action( 'save_post', 'cb_set_excerto' );
 
