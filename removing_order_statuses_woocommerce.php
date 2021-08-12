@@ -1,3 +1,5 @@
+<?php
+
 /*
  * Removing core order statuses
  * @param array $wc_statuses_arr Array of all order statuses on the website
